@@ -1,0 +1,194 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "firstname": "Biswajit",
+      "lastname": "Pramanik",
+      "dateofbirth": "10/10/2020",
+      "gender": "Male",
+      "email": "jbiswajitpramanik@gmail.com",
+      "mobile": "6295800014",
+      "addr": "Kolkata"
+    },
+    {
+      "firstname": "Biswajit",
+      "lastname": "",
+      "dateofbirth": "",
+      "gender": "",
+      "email": "",
+      "mobile": "",
+      "addr": "",
+      "id": 2
+    },
+    {
+      "firstname": "Biswajit",
+      "lastname": "",
+      "dateofbirth": "",
+      "gender": "",
+      "email": "",
+      "mobile": "",
+      "addr": "",
+      "id": 3
+    },
+    {
+      "firstname": "Arun",
+      "lastname": "",
+      "dateofbirth": "",
+      "gender": "",
+      "email": "",
+      "mobile": "",
+      "addr": "",
+      "id": 4
+    },
+    {
+      "firstname": "",
+      "lastname": "",
+      "dateofbirth": "",
+      "gender": "",
+      "email": "",
+      "mobile": "",
+      "addr": "",
+      "id": 5
+    },
+    {
+      "firstname": "",
+      "lastname": "",
+      "dateofbirth": "",
+      "gender": "",
+      "email": "",
+      "mobile": "",
+      "addr": "",
+      "id": 6
+    },
+    {
+      "firstname": "",
+      "lastname": "",
+      "dateofbirth": "2021-10-13",
+      "gender": "male",
+      "email": "",
+      "mobile": "",
+      "addr": "",
+      "id": 7
+    },
+    {
+      "firstname": "",
+      "lastname": "",
+      "dateofbirth": "",
+      "gender": "",
+      "email": "",
+      "mobile": "",
+      "addr": "",
+      "id": 8
+    },
+    {
+      "firstname": "",
+      "lastname": "",
+      "dateofbirth": "",
+      "gender": "female",
+      "email": "",
+      "mobile": "",
+      "addr": "",
+      "id": 9
+    },
+    {
+      "firstname": "",
+      "lastname": "",
+      "dateofbirth": "",
+      "gender": "male",
+      "email": "",
+      "mobile": "",
+      "addr": "",
+      "id": 10
+    },
+    {
+      "firstname": "",
+      "lastname": "",
+      "dateofbirth": "",
+      "gender": "female",
+      "email": "",
+      "mobile": "",
+      "addr": "",
+      "id": 11
+    },
+    {
+      "firstname": "",
+      "lastname": "",
+      "dateofbirth": "",
+      "gender": "male",
+      "email": "",
+      "mobile": "",
+      "addr": "",
+      "id": 12
+    },
+    {
+      "firstname": "",
+      "lastname": "",
+      "dateofbirth": "",
+      "gender": "",
+      "email": "",
+      "mobile": "",
+      "addr": "",
+      "id": 13
+    },
+    {
+      "firstname": "",
+      "lastname": "",
+      "dateofbirth": "",
+      "gender": "",
+      "email": "",
+      "mobile": "",
+      "addr": "",
+      "id": 14
+    },
+    {
+      "firstname": "",
+      "lastname": "",
+      "dateofbirth": "",
+      "gender": "",
+      "email": "",
+      "mobile": "",
+      "addr": "",
+      "id": 15
+    },
+    {
+      "firstname": "",
+      "lastname": "",
+      "dateofbirth": "",
+      "gender": "",
+      "email": "",
+      "mobile": "",
+      "addr": "",
+      "id": 16
+    },
+    {
+      "firstname": "",
+      "lastname": "",
+      "dateofbirth": "",
+      "gender": "",
+      "email": "",
+      "mobile": "",
+      "addr": "",
+      "id": 17
+    },
+    {
+      "firstname": "",
+      "lastname": "",
+      "dateofbirth": "",
+      "gender": "",
+      "email": "",
+      "mobile": "",
+      "addr": "",
+      "id": 18
+    },
+    {
+      "firstname": "",
+      "lastname": "",
+      "dateofbirth": "",
+      "gender": "",
+      "email": "",
+      "mobile": "",
+      "addr": "",
+      "id": 19
+    }
+  ]
+}
