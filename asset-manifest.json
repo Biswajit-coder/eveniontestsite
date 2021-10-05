@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/eveniontestsite/static/css/main.a617e044.chunk.css",
+    "main.js": "/eveniontestsite/static/js/main.0e4cfab5.chunk.js",
+    "main.js.map": "/eveniontestsite/static/js/main.0e4cfab5.chunk.js.map",
+    "runtime-main.js": "/eveniontestsite/static/js/runtime-main.c99b1ff2.js",
+    "runtime-main.js.map": "/eveniontestsite/static/js/runtime-main.c99b1ff2.js.map",
+    "static/css/2.53150396.chunk.css": "/eveniontestsite/static/css/2.53150396.chunk.css",
+    "static/js/2.32a80dc5.chunk.js": "/eveniontestsite/static/js/2.32a80dc5.chunk.js",
+    "static/js/2.32a80dc5.chunk.js.map": "/eveniontestsite/static/js/2.32a80dc5.chunk.js.map",
+    "static/js/3.ea92a3bc.chunk.js": "/eveniontestsite/static/js/3.ea92a3bc.chunk.js",
+    "static/js/3.ea92a3bc.chunk.js.map": "/eveniontestsite/static/js/3.ea92a3bc.chunk.js.map",
+    "index.html": "/eveniontestsite/index.html",
+    "static/css/2.53150396.chunk.css.map": "/eveniontestsite/static/css/2.53150396.chunk.css.map",
+    "static/css/main.a617e044.chunk.css.map": "/eveniontestsite/static/css/main.a617e044.chunk.css.map",
+    "static/js/2.32a80dc5.chunk.js.LICENSE.txt": "/eveniontestsite/static/js/2.32a80dc5.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c99b1ff2.js",
+    "static/css/2.53150396.chunk.css",
+    "static/js/2.32a80dc5.chunk.js",
+    "static/css/main.a617e044.chunk.css",
+    "static/js/main.0e4cfab5.chunk.js"
+  ]
+}
